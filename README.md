@@ -3,13 +3,13 @@ Projeto de coleta de dados do twitter para a disciplina de Redes Sociais ofertad
 
 Ps.: Recomendada a instalação via pip, pois essas bibliotecas também possuem suas dependências.
 
-Dependências = {
+dependencias = {
 
-	Linguagem: [
+	'linguagem': [
 		'Python 3.5'
 	]
 	
-	Bibliotecas: [
+	'bibliotecas': [
 		'tweepy 3.5.0',
 		'pony 0.6.2'
 	]
